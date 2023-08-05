@@ -40,6 +40,7 @@
 + **Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems**, *KDD*, [📝Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467335)
 + **Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction**, *RecSys*,  [📝Paper](https://arxiv.org/abs/2109.01165)
 + **Membership Inference Attacks Against Recommender Systems**, *Arxiv*,  [📝Paper](https://arxiv.org/abs/2109.08045)
++ **Data Poisoning Attacks to Deep Learning Based Recommender Systems**,*NDSS*
 
 
 ## 2020
